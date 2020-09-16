@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Thanks for taking the time to view my GitHub! I am the technical director at Flip Multimedia. We work on bespoke applications for a range of clients, but mainly produce apps for mobile devices and web. We are always looking for talent, so if you have any interest in the languages below, then please get in touch with me.
+
 <!--
 **JamesFNGibbons/JamesFNGibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
