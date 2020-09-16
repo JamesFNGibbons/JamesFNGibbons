@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Thanks for taking the time to view my GitHub! I am the technical director at Flip Multimedia. We work on bespoke applications for a range of clients, but mainly produce apps for mobile devices and web. We are always looking for talent, so if you have any interest in the languages below, then please get in touch with me.
+Thanks for taking the time to view my GitHub! I am the technical director at Flip Multimedia. We work on bespoke applications for a range of clients, but mainly produce apps for mobile devices and web. We are always looking for talent, so if you have any interest in the languages below, then please get in touch with me, or visit our website for more information.
+
+- Open Source Contributions
+I have recently uploaded some starter kits for IOS development. They are written in pure Objective-C, and can of course be ported to swift. I have also recently released the complete TypeScript codebase from a backend project that we have recently completed. Links will follow soon.
 
 <!--
 **JamesFNGibbons/JamesFNGibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
