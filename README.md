@@ -6,8 +6,8 @@ Thanks for taking the time to view my GitHub! I am the technical director at Fli
 - I have recently uploaded some starter kits for IOS development. They are written in pure Objective-C, and can of course be ported to swift. 
 - Please also find the complete backend codebase for a project that has recently gone into production. This REST api is built on top of Nest and uses TypeScript, while following all best practices.
 
-# Interests:
-![badge-c](https://img.shields.io/badge/Language-C-555555?style=for-the-badge&logo=C) ![badge-go](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=Go) ![badge-cpp](https://img.shields.io/badge/Language-C++-f34b7d?style=for-the-badge&logo=C%2B%2B) ![badge-python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python) ![badge-java](https://img.shields.io/badge/Language-Java-b07219?style=for-the-badge&logo=Java) ![badge-shell](https://img.shields.io/badge/Language-Shell-89e051?style=for-the-badge&logo=gnu-bash) ![badge-js](https://img.shields.io/badge/Language-Javascript-f1e05a?style=for-the-badge&logo=javascript) ![badge-powershell](https://img.shields.io/badge/Language-PowerShell-012456?style=for-the-badge&logo=powershell) ![badge-c#](https://img.shields.io/badge/Language-C%23-178600?style=for-the-badge&logo=C-Sharp) ![badge-asm](https://img.shields.io/badge/Language-Assembly-6E4C13?style=for-the-badge&logo=assembly) 
+### Interests:
+![badge-js](https://img.shields.io/badge/Language-Javascript-f1e05a?style=for-the-badge&logo=javascript) ![badge-c](https://img.shields.io/badge/Language-C-555555?style=for-the-badge&logo=C) ![badge-cpp](https://img.shields.io/badge/Language-C++-f34b7d?style=for-the-badge&logo=C%2B%2B) ![badge-java](https://img.shields.io/badge/Language-Java-b07219?style=for-the-badge&logo=Java) ![badge-shell](https://img.shields.io/badge/Language-Shell-89e051?style=for-the-badge&logo=gnu-bash) ![badge-asm](https://img.shields.io/badge/Language-Assembly-6E4C13?style=for-the-badge&logo=assembly) 
 
 <!--
 **JamesFNGibbons/JamesFNGibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
