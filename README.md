@@ -1,15 +1,3 @@
-### Hi there 👋
-
-Thanks for taking the time to view my GitHub! I am the technical director at Flip Multimedia. We work on bespoke applications for a range of clients, but mainly produce apps for mobile devices and web. We are always looking for talent, so if you have any interest in the languages below, then please get in touch with me, or visit our website for more information.
-
-## Open Source Contributions
-- I have recently uploaded some starter kits for IOS development. They are written in pure Objective-C, and can of course be ported to swift. 
-- Please also find the complete backend codebase for a project that has recently gone into production. This REST api is built on top of Nest and uses TypeScript, while following all best practices.
-
-## Employment
-- Company Director / Lead Software Engineer @ Flip Multimedia Ltd. https://www.flipweb.co.uk
-- Company Director / Software Engineer @ Freemont Software Development https://freemontsoftware.com
-
 ## Tracker
 <img style='float: left;' src='https://github-readme-stats.vercel.app/api?username=jamesfngibbons&&show_icons=true&count_private=true' width='50%'>
 
