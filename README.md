@@ -2,7 +2,7 @@
 <img style='float: left;' src='https://github-readme-stats.vercel.app/api?username=jamesfngibbons&&show_icons=true&count_private=true' width='50%'>
 
 ### Interests:
-![badge-js](https://img.shields.io/badge/Language-Javascript-f1e05a?style=for-the-badge&logo=javascript) ![badge-c](https://img.shields.io/badge/Language-C-555555?style=for-the-badge&logo=C) ![badge-cpp](https://img.shields.io/badge/Language-C++-f34b7d?style=for-the-badge&logo=C%2B%2B) ![badge-java](https://img.shields.io/badge/Language-Java-b07219?style=for-the-badge&logo=Java) ![badge-shell](https://img.shields.io/badge/Language-Shell-89e051?style=for-the-badge&logo=gnu-bash) ![badge-asm](https://img.shields.io/badge/Language-Assembly-6E4C13?style=for-the-badge&logo=assembly) 
+![badge-js](https://img.shields.io/badge/Language-Javascript-f1e05a?style=for-the-badge&logo=javascript) ![badge-php](https://img.shields.io/badge/Language-php-555555?style=for-the-badge&logo=C) ![badge-cpp](https://img.shields.io/badge/Language-C++-f34b7d?style=for-the-badge&logo=C%2B%2B) ![badge-java](https://img.shields.io/badge/Language-Java-b07219?style=for-the-badge&logo=Java) ![badge-shell](https://img.shields.io/badge/Language-Shell-89e051?style=for-the-badge&logo=gnu-bash) ![badge-asm](https://img.shields.io/badge/Language-Assembly-6E4C13?style=for-the-badge&logo=assembly) 
 
 <!--
 **JamesFNGibbons/JamesFNGibbons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
