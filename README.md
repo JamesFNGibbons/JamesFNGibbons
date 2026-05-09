@@ -5,7 +5,6 @@
 > professional site in minutes.
 
 [![REG121](https://img.shields.io/badge/REG121-Building%20in%20Public-6366f1?style=for-the-badge&logo=rocket&logoColor=white)](https://reg121.com)
-[![YC S26](https://img.shields.io/badge/Y%20Combinator-S26%20Applicant-F26522?style=for-the-badge&logo=ycombinator&logoColor=white)](https://reg121.com)
 [![Location](https://img.shields.io/badge/Nottingham-UK-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://reg121.com)
 
 ---
