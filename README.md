@@ -45,9 +45,7 @@
 
 **AI**
 
-[![LiteLLM](https://img.shields.io/badge/LiteLLM-Self--Hosted-green?style=flat-square)](https://litellm.ai)
-[![Kimi](https://img.shields.io/badge/Kimi%20K2.6-Fireworks-orange?style=flat-square)](https://fireworks.ai)
-[![Llama](https://img.shields.io/badge/Llama%203.1-Groq-red?style=flat-square)](https://groq.com)
+Shsssssss.... Don't leak our hard work!
 
 ---
 
