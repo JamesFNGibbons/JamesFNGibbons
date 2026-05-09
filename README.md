@@ -1,8 +1,8 @@
 # James Gibbons
 
-### Founder @ REG121 · Fractional CTO · Technical Leader
+### Founder @ REG121 · Technical Leader · Builder
 
-> Building the AI that builds your website — 
+> Building the AI that builds your website —
 > from a conversation to a complete professional site in minutes.
 
 [![REG121](https://img.shields.io/badge/REG121-reg121.com-6366f1?style=for-the-badge&logo=rocket&logoColor=white)](https://reg121.com)
@@ -13,22 +13,20 @@
 
 ### About Me
 
-I'm a technical founder and fractional CTO with [X]+ years of experience 
-building production software for startups, scale-ups, and growing businesses 
-across the UK.
+I'm a technical founder with [X]+ years of experience building production
+software for startups, scale-ups, and growing businesses across the UK.
 
-I've helped [type of companies] go from idea to infrastructure — architecting 
-systems that scale, leading engineering teams, and making the technical 
-decisions that actually matter for early-stage businesses.
+Before REG121 I worked as a fractional CTO — helping early-stage founders
+make smart architectural decisions, build the right teams, and ship the
+right things in the right order. I've taken companies from napkin idea to
+production infrastructure and everything in between.
 
-Currently building **REG121** — an agentic AI website builder that generates 
-complete, professional multi-page websites from a single conversation. 
-No templates. No blank canvas. Just describe your business and watch your 
-site get built.
+Today I'm 100% focused on **REG121** — an agentic AI website builder that
+generates complete, professional multi-page websites from a single
+conversation. No templates. No blank canvas. No design skills needed.
+Just describe your business and watch your site get built.
 
-When I'm not shipping REG121 I work with founders and businesses as a 
-**fractional CTO** — helping teams make smart architectural decisions, 
-hire the right engineers, and build the right things in the right order.
+It's the hardest and most exciting thing I've ever built.
 
 ---
 
@@ -37,7 +35,7 @@ hire the right engineers, and build the right things in the right order.
 **REG121** — AI website builder for SMBs and agencies
 
 - Conversation to complete professional website in minutes
-- Proprietary per-project AI component library architecture  
+- Proprietary per-project AI component library architecture
 - Multi-model agentic pipeline on self-hosted infrastructure
 - Built and operated on bare metal Kubernetes
 
@@ -68,20 +66,6 @@ hire the right engineers, and build the right things in the right order.
 **AI/ML**
 
 [![Shh](https://img.shields.io/badge/AI%20Models-Shh...%20don't%20leak%20our%20secret%20sauce%20%F0%9F%A4%AB-black?style=flat-square)](https://reg121.com)
-
----
-
-### Fractional CTO
-
-Available for fractional CTO engagements with early-stage startups and 
-growing businesses. I help with:
-
-- **Architecture decisions** — getting your technical foundation right from day one
-- **Team building** — hiring, structuring, and leading engineering teams  
-- **Technical strategy** — translating business goals into engineering roadmaps
-- **AI integration** — pragmatic AI adoption that actually moves the needle
-
-📩 [jgibbons@reg121.com](mailto:james@reg121.com)
 
 ---
 
