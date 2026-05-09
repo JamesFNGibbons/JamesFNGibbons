@@ -13,7 +13,7 @@
 
 ### About Me
 
-I'm a technical founder with [X]+ years of experience building production
+I'm a technical founder with years of experience building production
 software for startups, scale-ups, and growing businesses across the UK.
 
 Before REG121 I worked as a fractional CTO — helping early-stage founders
@@ -35,15 +35,14 @@ It's the hardest and most exciting thing I've ever built.
 **REG121** — AI website builder for SMBs and agencies
 
 - Conversation to complete professional website in minutes
-- Proprietary per-project AI component library architecture
-- Multi-model agentic pipeline on self-hosted infrastructure
-- Built and operated on bare metal Kubernetes
+- Proprietary agentic pipeline with novel site consistency architecture
+- Built and operated on self-hosted bare metal Kubernetes
 
 🌐 [reg121.com](https://reg121.com) · 🐦 [@reg121app](https://x.com/reg121app)
 
 ---
 
-### Tech Stack
+### Current Stack
 
 **Backend**
 
@@ -66,6 +65,34 @@ It's the hardest and most exciting thing I've ever built.
 **AI/ML**
 
 [![Shh](https://img.shields.io/badge/AI%20Models-Shh...%20don't%20leak%20our%20secret%20sauce%20%F0%9F%A4%AB-black?style=flat-square)](https://reg121.com)
+
+---
+
+### Experience & Skills
+
+A career's worth of technologies picked up along the way:
+
+**Languages**
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://java.com)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
+
+**Frameworks**
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev)
+[![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)](https://symfony.com)
+[![Less](https://img.shields.io/badge/Less-1D365D?style=flat-square&logo=less&logoColor=white)](https://lesscss.org)
+
+**Infrastructure & Cloud**
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://linux.org)
+[![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)](https://redhat.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
 ---
 
