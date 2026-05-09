@@ -53,7 +53,6 @@ Shsssssss.... Don't leak our hard work!
 
 - 🚀 Launching REG121 — AI website builder for SMBs and agencies
 - 🏗️ Building in public — follow the journey on [X](https://x.com/reg121app) and [LinkedIn](https://linkedin.com/company/reg121)
-- 📬 Applied to Y Combinator S26
 
 ---
 
