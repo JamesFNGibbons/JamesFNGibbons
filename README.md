@@ -36,7 +36,7 @@ It's the hardest and most exciting thing I've ever built.
 
 - Conversation to complete professional website in minutes
 - Proprietary agentic pipeline with novel site consistency architecture
-- Built and operated on self-hosted bare metal Kubernetes
+- Reliable scalling with Kubernetes
 
 🌐 [reg121.com](https://reg121.com) · 🐦 [@reg121app](https://x.com/reg121app)
 
