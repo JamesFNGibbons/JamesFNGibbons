@@ -1,6 +1,6 @@
 # James Gibbons
 
-### Founder @ REG121 · Technical Leader · Builder
+### Founder @ Stack48
 
 > Building the AI that builds your website —
 > from a conversation to a complete professional site in minutes.
