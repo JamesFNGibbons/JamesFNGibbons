@@ -10,35 +10,26 @@
 [![Nottingham](https://img.shields.io/badge/Nottingham-UK-blue?style=for-the-badge)](https://reg121.com)
 
 ---
+## About me
 
-### About Me
+I'm a technical founder who builds production software. I've spent years shipping it for startups, scale-ups and growing businesses across the UK.
 
-I'm a technical founder with years of experience building production
-software for startups, scale-ups, and growing businesses across the UK.
+Before Stack48 I worked as a fractional CTO. I helped early-stage founders make the right architectural calls, build the right teams and ship things in the right order, taking companies from napkin idea to production infrastructure.
 
-Before REG121 I worked as a fractional CTO — helping early-stage founders
-make smart architectural decisions, build the right teams, and ship the
-right things in the right order. I've taken companies from napkin idea to
-production infrastructure and everything in between.
-
-Today I'm 100% focused on **REG121** — an agentic AI website builder that
-generates complete, professional multi-page websites from a single
-conversation. No templates. No blank canvas. No design skills needed.
-Just describe your business and watch your site get built.
+Today I'm 100% focused on **Stack48**, an AI app builder that turns a sentence into a working app. You describe what you want, and Stack48 designs, builds and deploys it: frontend, backend, database, auth and hosting, all in one place.
 
 It's the hardest and most exciting thing I've ever built.
 
----
+## What I'm building
 
-### What I'm Building
+**[Stack48](https://stack48.com)**: describe it, ship it. (Formerly REG121.)
 
-**REG121** — AI website builder for SMBs and agencies
+- **Agentic build pipeline:** prompt to complete, working app in minutes
+- **Multi Agents:** a team of AI agents builds in parallel and hands back one finished app
+- **Stack48 Cloud:** a built-in backend with database, auth and storage
+- **Infrastructure from the ground up:** Kubernetes, isolated cloud sandboxes per build, and a model-agnostic AI layer
 
-- Conversation to complete professional website in minutes
-- Proprietary agentic pipeline with novel site consistency architecture
-- Reliable scalling with Kubernetes
-
-🌐 [reg121.com](https://reg121.com) · 🐦 [@reg121app](https://x.com/reg121app)
+🌐 [stack48.com](https://stack48.com) · 🛠 [studio.stack48.com](https://studio.stack48.com)
 
 ---
 
