@@ -5,7 +5,7 @@
 > Building the AI that builds your website —
 > from a conversation to a complete professional site in minutes.
 
-[![Stack48](https://img.shields.io/badge/REG121-reg121.com-6366f1?style=for-the-badge&logo=rocket&logoColor=white)](https://stack48.com)
+[![Stack48](https://img.shields.io/badge/Stack48-stack48.com-6366f1?style=for-the-badge&logo=rocket&logoColor=white)](https://stack48.com)
 [![Building in Public](https://img.shields.io/badge/Building-In%20Public-orange?style=for-the-badge)](https://x.com/reg121app)
 [![Nottingham](https://img.shields.io/badge/Nottingham-UK-blue?style=for-the-badge)](https://stack48.com)
 
